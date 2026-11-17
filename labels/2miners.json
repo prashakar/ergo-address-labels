@@ -1,0 +1,13 @@
+{
+    "organisation_name": "2Miners",
+    "github": "https://github.com/2miners",
+    "url": "https://2miners.com",
+    "labels": [
+        {
+            "type": "address",
+            "match_rule": "88dhgzEuTXaRQTX5KNdnaWTTX7fEZVEQRn6qP4MJotPuRnS3QpoJxYpSaXoU1y7SHp8ZXMp92TH22DBY",
+            "label": "2Miners Mining Reward",
+            "description": "Miner reward address of 2Miners' Ergo pool. Block rewards for the blocks it mines land here first. The heights and block ids match the pool's public block list at erg.2miners.com/api/blocks."
+        }
+    ]
+}

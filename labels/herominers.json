@@ -1,0 +1,25 @@
+{
+    "organisation_name": "HeroMiners",
+    "github": "https://github.com/herominers",
+    "url": "https://herominers.com",
+    "labels": [
+        {
+            "type": "address",
+            "match_rule": "88dhgzEuTXaSuf5QC1TJDgdxqJMQEQAM6YaTTRqmUDrmPoVky1b16WAK5zMrq3p2mYqpUNKCyi5CLS9V",
+            "label": "HeroMiners Mining Reward",
+            "description": "Miner reward address of HeroMiners' Ergo pool, one of its two mining keys. Block rewards land here first. The blocks match the pool's public block list at ergo.herominers.com/api/stats."
+        },
+        {
+            "type": "address",
+            "match_rule": "88dhgzEuTXaTYNVozfX7N4dW1hToq6cRNZByKdjeYrnp6XFovWYndHqCVpDdYv8GYatWX15juuEj4pm6",
+            "label": "HeroMiners Mining Reward",
+            "description": "Miner reward address of HeroMiners' Ergo pool, one of its two mining keys. Block rewards land here first. The blocks match the pool's public block list at ergo.herominers.com/api/stats."
+        },
+        {
+            "type": "address",
+            "match_rule": "9giun3ba4ZnPvxYdXpk89XvwWkmWqJNQpGxgTRz932PajDPjE2z",
+            "label": "HeroMiners Payout Wallet",
+            "description": "Wallet HeroMiners pays its Ergo miners from. The payment transactions listed by the pool's stats API (ergo.herominers.com/api/stats) spend this wallet together with the pool's mining rewards."
+        }
+    ]
+}
