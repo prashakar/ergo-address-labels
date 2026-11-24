@@ -7,7 +7,13 @@
             "type": "address",
             "match_rule": "88dhgzEuTXaRQTX5KNdnaWTTX7fEZVEQRn6qP4MJotPuRnS3QpoJxYpSaXoU1y7SHp8ZXMp92TH22DBY",
             "label": "2Miners Mining Reward",
-            "description": "Miner reward address of 2Miners' Ergo pool. Block rewards for the blocks it mines land here first. The heights and block ids match the pool's public block list at erg.2miners.com/api/blocks."
+            "description": "Miner reward address of 2Miners' Ergo PPLNS pool. Block rewards for the blocks it mines land here first. The heights and block ids match the pool's public block list at erg.2miners.com/api/blocks, and 2Miners confirmed the address in writing on 20 Nov 2026."
+        },
+        {
+            "type": "address",
+            "match_rule": "88dhgzEuTXaRiLRSYpvTCXWoN3A86gnWs3Z8BWkJGkGMXsR3WzUUyqbB47YAzhhsB6HJdJ4tC5AFYfSc",
+            "label": "2Miners Solo Mining Reward",
+            "description": "Miner reward address of 2Miners' Ergo solo pool. 2Miners confirmed the address in writing on 20 Nov 2026, and said it uses no other reward addresses."
         }
     ]
 }
